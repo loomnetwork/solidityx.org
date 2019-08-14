@@ -1,17 +1,10 @@
 header:
-#  -
-#    href: '#components'
-#    title: 'Components'
-#  -
-#    href: '#whitepaper'
-#    title: 'Whitepaper'
-#  -
-#    href: '#about'
-#    title: 'Whitepaper'
   -
-    href: 'https://medium.com/loom-network'
-    title: 'Blog'
-    css_class: 'btn-rounded'
+    href: 'https://solidityx.org'
+    title: 'SolidityX'
   -
-    href: 'https://github.com/loomnetwork'
+    href: 'https://www.getdrip.com/forms/666729063/submissions/new'
+    title: 'Sign Up for Early Access'
+  -
+    href: 'https://github.com/loomnetwork/solidityx-js'
     title: 'Github'
